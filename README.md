@@ -28,7 +28,6 @@
 - DOCKER
 - Postgres DB
 ## Features
-List the ready features here:
 - JPA
 - JWT
 - JSON
